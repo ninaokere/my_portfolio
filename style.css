@@ -1,0 +1,42 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.image1 img{
+  height: 200px;
+  width: 200px;
+  border-radius: 30px;
+
+}
+
+
+.image2 img{
+  height: 200px;
+  width: 200px;
+  border-radius: 30px;
+
+}
+
+.image3 img{
+  height: 200px;
+  width: 200px;
+  border-radius: 30px;
+}
+
+footer{
+  height: 50px;
+  color: white;
+  background-color: lightblue;
+  text-align: 120px;
+  font-size: 15px;
+}
+
+body{
+  font-family: 'Abril Fatface', cursive;
+  background-color: lightblue;
+}
+
+h3{
+    font-size: 30px;
+}
